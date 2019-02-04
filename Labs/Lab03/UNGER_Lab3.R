@@ -71,5 +71,19 @@ LennyEpisodeII <- MyDat[2,5]
 MyDat[2,5] = MyDat[5,5]
 MyDat[5,5] = LennyEpisodeII
 
+#Lab Step 24, using a differnet approach to pull specific data sets
+MyDat["III", "pennyRatings"]
+
+#Lab Step 25: Using names rather than numbers in the indexing to make the switch back within the data set
+LennyEpisodeII <- MyDat["II","lennyRatings"]
+MyDat["II","lennyRatings"] = MyDat["V","lennyRatings"]
+MyDat["V","lennyRatings"] = LennyEpisodeII
+
+
+
+
+
+
+
 
 
