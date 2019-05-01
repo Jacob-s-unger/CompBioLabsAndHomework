@@ -1,0 +1,231 @@
+﻿Bee ID,Species,Site,Treatment,Wax,WaxTime,Egg,EggTime,Survival,SurvivalTime ,Syrup1,Size1,Size2,Syrup2,Z_score_for_size,InfectionStatus,Average_terminal_oocyte_length,Z_Oocyte
+1,pratorum,Heather,Control,nowax,29,noeggs,29,survived,29,1.09,6.3,250.047,0.00435918,0.195469509,Uninfected,2.69,2.192181312
+6,pratorum,Heather,High,nowax,29,noeggs,29,survived,29,0.92,6.49,273.359449,0.003365532,1.014286665,Uninfected,2.4,1.346149361
+7,pratorum,Heather,Control,wax,23,noeggs,29,survived,29,1.09,6.59,286.191179,0.003808643,1.445243063,Uninfected,2.14,0.587637956
+8,pratorum,Heather,Low,wax,9,noeggs,29,survived,29,1.14,6.5,274.625,0.004151115,1.057382305,Uninfected,1.77,-0.49178212
+9,pratorum,Heather,High,wax,14,noeggs,29,survived,29,1.14,6.6,287.496,0.003965273,1.488338702,Uninfected,2.04,0.295902801
+10,pratorum,Heather,Control,wax,16,noeggs,29,survived,29,0.46,6.47,270.840023,0.00169842,0.928095385,Uninfected,2.5,1.637884517
+11,pratorum,Heather,Low,nowax,29,noeggs,29,survived,29,1.15,6.63,291.434247,0.003946002,1.617625622,Uninfected,2.01,0.208382254
+12,pratorum,Heather,High,nowax,29,eggs,5,survived,29,1.31,6.18,236.029032,0.005550165,-0.321678168,Uninfected,2.61,1.958793188
+13,terrestris,Heather,Control,wax,7,noeggs,29,survived,29,1.47,7.87,487.443403,0.003015735,-0.991241178,Uninfected,3.04,0.445523794
+14,terrestris,Heather,Low,nowax,29,eggs,9,died,26,1.62,8.53,620.650477,0.002610165,1.856980918,Uninfected,3.45,NA
+15,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.34,8.2,551.368,0.002430319,0.43286987,Uninfected,3.15,0.706493149
+16,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,0.91,7.98,508.169592,0.001790741,-0.516537495,Uninfected,2.18,-1.594782076
+17,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.34,8.05,521.660125,0.002568722,-0.214453333,Uninfected,2.33,-1.238914773
+19,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.42,8.03,517.781627,0.002742469,-0.300763094,Uninfected,2.61,-0.574629141
+20,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,0.99,8.19,549.353259,0.001802119,0.38971499,Uninfected,2.46,-0.930496444
+21,terrestris,Heather,High,wax,9,eggs,10,survived,29,1.71,8.61,638.277381,0.002679086,2.20221996,Uninfected,3.64,1.868993006
+23,terrestris,Heather,Low,wax,23,noeggs,29,survived,29,1.41,8.01,513.922401,0.002743605,-0.387072854,Uninfected,3.71,2.035064414
+24,terrestris,Heather,High,wax,7,noeggs,29,survived,29,1.71,8.28,567.663552,0.003012348,0.778108912,Uninfected,3.07,0.516697255
+25,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.31,7.92,496.793088,0.002636913,-0.775466777,Uninfected,2.61,-0.574629141
+26,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.32,8.09,529.475129,0.002493035,-0.041833812,Uninfected,2.63,-0.527180167
+27,terrestris,Heather,High,nowax,29,eggs,27,survived,29,1.22,8.27,565.609283,0.002156966,0.734954032,Uninfected,4.21,3.221288757
+28,terrestris,Heather,Control,nowax,29,eggs,13,survived,29,1.07,7.91,494.913671,0.002161993,-0.818621657,Uninfected,3.18,0.77766661
+29,terrestris,Heather,Low,wax,7,noeggs,29,survived,29,1.25,7.88,489.303872,0.00255465,-0.948086298,Uninfected,2.91,0.137105465
+31,terrestris,Heather,Control,wax,9,NA,11,survived,29,1.61,8.07,525.557943,0.003063411,-0.128143573,Uninfected,2.82,-0.076414917
+33,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,0.95,7.94,500.566184,0.001897851,-0.689157016,Uninfected,2.64,-0.50345568
+34,terrestris,Heather,Control,wax,26,noeggs,29,survived,29,1.24,7.87,487.443403,0.002543885,-0.991241178,Uninfected,2.89,0.089656491
+36,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.19,8.4,592.704,0.002007748,1.295967475,Uninfected,2.56,-0.693251575
+38,terrestris,Heather,Low,wax,7,eggs,9,survived,29,1.68,7.69,454.756609,0.003694284,-1.768029022,Uninfected,3.24,0.920013531
+39,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.45,8.46,605.495736,0.002394732,1.554896757,Uninfected,2.82,-0.076414917
+40,terrestris,Heather,Control,wax,23,noeggs,29,survived,29,1.24,8.46,605.495736,0.002047909,1.554896757,Uninfected,3.08,0.540421741
+42,terrestris,Heather,High,nowax,29,noeggs,29,died,9,0.89,8,512,0.001738281,-0.430227735,Uninfected,NA,NA
+43,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.22,8.26,563.559976,0.00216481,0.691799152,Uninfected,2.72,-0.313659786
+44,terrestris,Heather,Low,nowax,29,eggs,12,survived,29,1.15,8.21,553.387661,0.002078109,0.47602475,Uninfected,2.78,-0.171312864
+45,terrestris,Heather,High,wax,3,noeggs,29,survived,29,1.41,8.07,525.557943,0.002682863,-0.128143573,Uninfected,2.89,0.089656491
+51,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.19,7.98,508.169592,0.002341738,-0.516537495,Uninfected,2.47,-0.906771957
+53,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.11,8.31,573.856191,0.001934283,0.907573553,Uninfected,2.78,-0.171312864
+54,terrestris,Heather,High,wax,17,eggs,23,survived,29,1.28,8.19,549.353259,0.002330013,0.38971499,Uninfected,2.81,-0.100139404
+55,terrestris,Heather,Control,nowax,29,noeggs,29,died,14,0.32,8.25,561.515625,0.000569886,0.648644271,Uninfected,1.29,NA
+56,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.21,8.12,535.387328,0.002260046,0.087630828,Uninfected,2.51,-0.81187401
+58,terrestris,Heather,Control,nowax,29,eggs,11,survived,29,1.31,8.1,531.441,0.002464996,0.001321068,Uninfected,3.01,0.374350333
+59,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.37,8.28,567.663552,0.002413401,0.778108912,Uninfected,3.41,1.323329808
+60,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,0.81,7.92,496.793088,0.001630457,-0.775466777,Uninfected,2.03,-1.950649379
+61,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.01,8.38,588.480472,0.001716285,1.209657715,Uninfected,3.02,0.39807482
+62,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.01,7.86,485.587656,0.002079954,-1.034396058,Uninfected,2.71,-0.337384272
+64,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.05,8.27,565.609283,0.001856405,0.734954032,Uninfected,2.98,0.303176873
+66,lucorum,Heather,High,wax,5,noeggs,29,survived,29,1.65,6.92,331.373888,0.00497927,-1.933715857,Uninfected,2.89,-0.104581033
+67,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.12,8.17,545.338513,0.00205377,0.303405229,Uninfected,3.07,0.516697255
+68,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.12,7.88,489.303872,0.002288966,-0.948086298,Uninfected,2.28,-1.357537207
+72,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.29,8.2,551.368,0.002339635,0.43286987,Uninfected,2.64,-0.50345568
+73,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.27,8.06,523.606616,0.002425485,-0.171298453,Uninfected,3.26,0.967462505
+74,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.18,7.87,487.443403,0.002420794,-0.991241178,Uninfected,2.78,-0.171312864
+75,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.37,8.02,515.849608,0.002655813,-0.343917974,Uninfected,2.54,-0.740700549
+76,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.32,8.04,519.718464,0.002539837,-0.257608214,Uninfected,2.88,0.065932004
+78,terrestris,Heather,Low,wax,7,noeggs,29,survived,29,1.54,8.1,531.441,0.002897782,0.001321068,Uninfected,3.51,1.560574676
+79,terrestris,Heather,High,nowax,29,noeggs,29,died,6,0.73,8.21,553.387661,0.001319148,0.47602475,Uninfected,NA,NA
+80,terrestris,Heather,Control,nowax,29,eggs,11,survived,29,1.52,8.05,521.660125,0.002913775,-0.214453333,Uninfected,2.94,0.208278925
+83,terrestris,Heather,Control,nowax,29,eggs,8,survived,29,1.47,7.73,461.889917,0.003182577,-1.595409501,Uninfected,3.03,0.421799307
+85,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.35,8.23,557.441767,0.002421778,0.562334511,Uninfected,3.34,1.1572584
+86,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,2.25,8.39,590.589719,0.003809751,1.252812595,Uninfected,3.62,1.821544032
+88,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.21,8.1,531.441,0.002276828,0.001321068,Uninfected,2.64,-0.50345568
+90,terrestris,Heather,Low,nowax,29,eggs,20,survived,29,1.27,8.33,578.009537,0.002197196,0.993883313,Uninfected,3.85,2.36720723
+91,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,0.62,8.3,571.787,0.00108432,0.864418673,Uninfected,NA,NA
+92,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.34,8.27,565.609283,0.002369127,0.734954032,Uninfected,3.27,0.991186992
+93,terrestris,Heather,Low,wax,14,eggs,15,survived,29,1.61,7.82,478.211768,0.003366709,-1.207015579,Uninfected,2.55,-0.716976062
+95,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.22,8.11,533.411731,0.002287164,0.044475948,Uninfected,2.44,-0.977945418
+96,terrestris,Heather,Low,wax,11,eggs,17,survived,29,1.55,8.24,559.476224,0.002770448,0.605489391,Uninfected,2.65,-0.479731194
+97,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.38,7.98,508.169592,0.002715629,-0.516537495,Uninfected,2.58,-0.645802602
+100,pratorum,Heather,High,nowax,29,eggs,10,survived,29,0.89,6.06,222.545016,0.003999191,-0.838825846,Uninfected,2.54,1.754578579
+102,pratorum,Heather,Low,wax,5,noeggs,29,survived,29,1.29,6.14,231.475544,0.005572943,-0.494060728,Uninfected,1.44,-1.454508133
+103,pratorum,Heather,High,wax,6,noeggs,29,survived,29,0.69,6.21,239.483061,0.002881206,-0.192391249,Uninfected,1.99,0.150035223
+104,pratorum,Heather,Control,nowax,29,noeggs,29,survived,29,0.75,5.68,183.250432,0.00409276,-2.476460158,Uninfected,1.91,-0.083352902
+110,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.57,8.24,559.476224,0.002806196,0.605489391,Uninfected,2.61,-0.574629141
+111,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.27,8.07,525.557943,0.00241648,-0.128143573,Uninfected,2.96,0.255727899
+112,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.15,8.25,561.515625,0.002048028,0.648644271,Uninfected,2.82,-0.076414917
+114,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.35,8.18,547.343432,0.002466459,0.34656011,Uninfected,2.42,-1.025394391
+117,terrestris,Heather,Low,nowax,29,noeggs,29,died,13,0.32,8.42,596.947688,0.00053606,1.382277236,Uninfected,1.75,NA
+119,terrestris,Heather,Control,nowax,29,eggs,22,survived,29,1.32,8.31,573.856191,0.002300228,0.907573553,Uninfected,2.66,-0.456006707
+121,terrestris,Heather,High,nowax,29,eggs,9,survived,29,1.57,8.13,537.367797,0.002921649,0.130785708,Uninfected,3.18,0.77766661
+122,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.61,7.98,508.169592,0.003168234,-0.516537495,Uninfected,NA,NA
+124,terrestris,Heather,High,nowax,29,eggs,8,survived,29,1.48,8.1,531.441,0.002784881,0.001321068,Uninfected,2.84,-0.028965943
+125,terrestris,Heather,Control,wax,14,eggs,16,survived,29,1.01,8.19,549.353259,0.001838526,0.38971499,Uninfected,2.8,-0.123863891
+126,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.18,8.57,629.422793,0.001874734,2.029600439,Uninfected,2.52,-0.788149523
+128,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,0.97,8.19,549.353259,0.001765713,0.38971499,Uninfected,3.18,0.77766661
+130,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.25,8.02,515.849608,0.002423187,-0.343917974,Uninfected,2.38,-1.120292339
+132,terrestris,Heather,Low,nowax,29,eggs,14,survived,29,1.34,7.98,508.169592,0.002636915,-0.516537495,Uninfected,3.34,1.1572584
+134,terrestris,Heather,Control,wax,11,eggs,16,survived,29,1.31,7.75,465.484375,0.002814273,-1.509099741,Uninfected,3.01,0.374350333
+136,terrestris,Heather,High,nowax,29,eggs,9,survived,29,1.52,8.21,553.387661,0.002746718,0.47602475,Uninfected,3.24,0.920013531
+138,terrestris,Heather,Low,nowax,29,noeggs,29,died,14,1.12,8.21,553.387661,0.002023898,0.47602475,Uninfected,2.12,NA
+139,terrestris,Heather,High,wax,7,NA,12,survived,29,1.49,7.67,451.217663,0.003302176,-1.854338783,Uninfected,2.54,-0.740700549
+143,terrestris,Heather,Control,wax,6,noeggs,29,survived,29,1.34,8.23,557.441767,0.002403839,0.562334511,Uninfected,2.76,-0.218761838
+144,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.08,8.04,519.718464,0.002078048,-0.257608214,Uninfected,2.45,-0.954220931
+145,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.24,7.94,500.566184,0.002477195,-0.689157016,Uninfected,3.03,0.421799307
+146,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.22,7.85,483.736625,0.002522034,-1.077550938,Uninfected,2.89,0.089656491
+147,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.52,7.45,413.493625,0.003675994,-2.803746148,Uninfected,3.23,0.896289044
+148,terrestris,Heather,High,nowax,29,noeggs,29,died,19,0.97,8.35,582.182875,0.001666143,1.080193074,Uninfected,2.39,NA
+150,terrestris,Heather,Low,nowax,29,noeggs,29,died,16,1.07,8.24,559.476224,0.001912503,0.605489391,Uninfected,3.55,NA
+153,terrestris,Heather,Low,nowax,29,noeggs,29,died,17,0.65,8.49,611.960049,0.001062161,1.684361397,Uninfected,2.14,NA
+155,terrestris,Heather,Control,wax,5,noeggs,29,survived,29,2.09,8.12,535.387328,0.003903716,0.087630828,Uninfected,2.62,-0.550904654
+156,terrestris,Heather,Low,wax,6,NA,13,survived,13,2.18,7.89,491.169069,0.00443839,-0.904931417,Uninfected,2.6,-0.598353628
+157,terrestris,Heather,High,wax,10,noeggs,29,survived,29,1.38,7.77,469.097433,0.00294182,-1.42278998,Uninfected,2.31,-1.286363747
+158,terrestris,Heather,Control,nowax,29,noeggs,29,survived,29,1.32,8.53,620.650477,0.002126801,1.856980918,Uninfected,2.22,-1.499884129
+159,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.37,7.81,476.379541,0.002875858,-1.250170459,Uninfected,2.86,0.01848303
+160,terrestris,Heather,High,wax,13,noeggs,29,survived,29,1.37,7.8,474.552,0.002886933,-1.29332534,Uninfected,2.33,-1.238914773
+161,terrestris,Heather,Control,nowax,29,noeggs,29,died,16,0.51,7.92,496.793088,0.001026584,-0.775466777,Uninfected,1.67,NA
+162,terrestris,Heather,Low,nowax,29,noeggs,29,survived,29,1.05,7.57,433.798093,0.002420481,-2.285887585,Uninfected,3.05,0.469248281
+163,terrestris,Heather,High,nowax,29,noeggs,29,survived,29,1.09,7.62,442.450728,0.002463551,-2.070113184,Uninfected,2.19,-1.571057589
+164,terrestris,Heather,Control,wax,9,NA,21,survived,29,1.38,7.87,487.443403,0.002831098,-0.991241178,Uninfected,3.06,0.492972768
+166,terrestris,Heather,High,wax,22,noeggs,29,survived,29,1.18,7.85,483.736625,0.002439344,-1.077550938,Uninfected,2.19,-1.571057589
+167,terrestris,Heather,Control,wax,9,noeggs,29,survived,29,1.71,8.26,563.559976,0.003034282,0.691799152,Uninfected,4,2.723074532
+168,terrestris,Heather,Low,wax,7,eggs,19,survived,29,1.74,8.45,603.351125,0.002883893,1.511741876,Uninfected,2.38,-1.120292339
+170,terrestris,Heather,Control,wax,14,noeggs,29,survived,29,1.14,8.24,559.476224,0.00203762,0.605489391,Uninfected,2.85,-0.005241456
+174,pratorum,Saville,Control,wax,4,noeggs,29,survived,29,1.45,6.38,259.694072,0.005583493,0.540234627,Uninfected,2.08,0.412596863
+180,pratorum,Saville,Control,nowax,29,noeggs,29,died,15,0.98,6.49,273.359449,0.003585023,1.014286665,Uninfected,NA,NA
+183,pratorum,Saville,Control,wax,3,noeggs,29,survived,29,1.05,6.09,225.866529,0.004648763,-0.709538926,Uninfected,2.04,0.295902801
+188,pratorum,Saville,High,nowax,29,noeggs,29,died,16,0.67,6.45,268.336125,0.002496868,0.841904106,Uninfected,1.27,NA
+189,pratorum,Saville,Control,wax,4,noeggs,29,survived,29,0.91,6.18,236.029032,0.003855458,-0.321678168,Uninfected,2.09,0.441770379
+191,pratorum,Saville,High,nowax,29,noeggs,29,died,4,0.32,6.32,252.435968,0.001267648,0.281660789,Uninfected,1.4,NA
+192,pratorum,Saville,Control,wax,11,noeggs,29,survived,29,1.52,6.23,241.804367,0.006286073,-0.106199969,Uninfected,2.5,1.637884517
+193,pratorum,Saville,Low,wax,3,noeggs,29,died,26,1.54,6.29,248.858189,0.006188263,0.152373869,Uninfected,1.94,NA
+194,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,0.87,6.22,240.641848,0.003615331,-0.149295609,Uninfected,2.19,0.733505534
+197,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,0.77,6.6,287.496,0.002678298,1.488338702,Uninfected,1.55,-1.133599462
+198,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,0.91,6.33,253.636137,0.003587817,0.324756428,Uninfected,1.8,-0.404261573
+202,pratorum,Saville,Low,wax,4,noeggs,29,survived,29,1.01,6.36,257.259456,0.003925998,0.454043348,Uninfected,1.87,-0.200046964
+206,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,1.29,6.24,242.970624,0.005309284,-0.06310433,Uninfected,2,0.179208738
+209,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,1.01,5.89,204.336469,0.004942828,-1.571451722,Uninfected,1.55,-1.133599462
+210,pratorum,Saville,Control,nowax,29,eggs,4,survived,29,1.17,6.08,224.755712,0.005205652,-0.752634566,Uninfected,2.08,0.412596863
+211,pratorum,Saville,Low,wax,4,noeggs,29,survived,29,1.51,6.38,259.694072,0.005814534,0.540234627,Uninfected,1.08,-2.504754694
+212,pratorum,Saville,High,wax,7,noeggs,29,survived,29,0.65,6.36,257.259456,0.002526632,0.454043348,Uninfected,1.72,-0.637649697
+213,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,1.15,6.15,232.608375,0.004943932,-0.450965088,Uninfected,1.49,-1.308640555
+214,pratorum,Saville,Low,nowax,29,noeggs,29,survived,29,1.07,6.02,218.167208,0.004904495,-1.011208405,Uninfected,2.24,0.879373112
+216,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,1.05,6.43,265.847707,0.00394963,0.755712826,Uninfected,2.38,1.28780233
+217,pratorum,Saville,Low,wax,7,noeggs,29,survived,29,1.21,6.17,234.885113,0.005151455,-0.364773808,Uninfected,1.59,-1.0169054
+218,pratorum,Saville,High,wax,6,noeggs,29,survived,29,1.22,6.21,239.483061,0.005094306,-0.192391249,Uninfected,1.73,-0.608476182
+220,pratorum,Saville,Low,wax,9,noeggs,29,survived,29,1.21,5.7,185.193,0.006533724,-2.390268878,Uninfected,1.57,-1.075252431
+221,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,0.94,6.15,232.608375,0.004041127,-0.450965088,Uninfected,1.51,-1.250293524
+222,pratorum,Saville,Control,nowax,29,noeggs,29,died,15,1.05,6.6,287.496,0.003652225,1.488338702,Uninfected,1.53,NA
+223,pratorum,Saville,Low,wax,6,noeggs,29,survived,29,1.24,6.07,223.648543,0.005544413,-0.795730206,Uninfected,1.89,-0.141699933
+224,pratorum,Saville,High,wax,6,noeggs,29,survived,29,1.22,6.45,268.336125,0.004546537,0.841904106,Uninfected,1.81,-0.375088057
+225,pratorum,Saville,Control,wax,3,noeggs,29,survived,29,1.31,6.31,251.239591,0.005214146,0.238565149,Uninfected,1.83,-0.316741026
+226,pratorum,Saville,Low,wax,3,noeggs,29,survived,29,0.88,5.73,188.132517,0.004677554,-2.260981959,Uninfected,2.19,0.733505534
+227,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,0.89,6.44,267.089984,0.00333221,0.798808466,Uninfected,1.85,-0.258393995
+228,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,0.91,6.07,223.648543,0.004068884,-0.795730206,Uninfected,2.22,0.821026081
+232,pratorum,Saville,Low,nowax,29,noeggs,29,survived,29,0.88,6.33,253.636137,0.003469537,0.324756428,Uninfected,1.74,-0.579302666
+235,pratorum,Saville,Low,wax,4,noeggs,29,survived,29,1.49,6.39,260.917119,0.005710626,0.583330267,Uninfected,2.05,0.325076316
+238,pratorum,Saville,Low,wax,14,noeggs,29,survived,29,1.22,6.39,260.917119,0.004675814,0.583330267,Uninfected,1.88,-0.170873448
+239,pratorum,Saville,High,nowax,29,noeggs,29,survived,29,1.18,6.15,232.608375,0.005072904,-0.450965088,Uninfected,1.99,0.150035223
+240,pratorum,Saville,Control,wax,5,noeggs,29,survived,29,1.69,6.2,238.328,0.007091068,-0.235486889,Uninfected,1.86,-0.229220479
+246,pratorum,Saville,Control,wax,5,noeggs,29,survived,29,1.05,6.19,237.176659,0.00442708,-0.278582529,Uninfected,1.99,0.150035223
+248,pratorum,Saville,High,wax,2,noeggs,29,survived,29,0.88,6.42,264.609288,0.003325658,0.712617186,Uninfected,1.46,-1.396161102
+249,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,1.35,6.43,265.847707,0.005078095,0.755712826,Uninfected,1.41,-1.54202868
+251,pratorum,Saville,High,wax,10,noeggs,29,died,10,0.42,6.4,262.144,0.001602173,0.626425907,Uninfected,1.98,NA
+252,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,1.05,5.71,186.169411,0.005640024,-2.347173238,Uninfected,1.91,-0.083352902
+256,pratorum,Saville,Low,nowax,29,noeggs,29,survived,29,0.99,5.94,209.584584,0.00472363,-1.355973523,Uninfected,1.68,-0.75434376
+258,pratorum,Saville,Control,wax,3,noeggs,29,died,25,1.35,6.06,222.545016,0.006066188,-0.838825846,Uninfected,1.5,NA
+261,pratorum,Saville,Control,nowax,29,noeggs,29,survived,29,1.02,6.41,263.374721,0.003872809,0.669521547,Uninfected,2.13,0.558464441
+263,lucorum,Heather,High,wax,20,noeggs,29,survived,29,1.09,7.39,403.583419,0.002700805,0.363008031,Uninfected,2.88,-0.134276882
+264,lucorum,Heather,Control,wax,13,NA,21,survived,29,1.09,7.49,420.189749,0.002594066,0.851672688,Uninfected,3.55,1.855344988
+266,lucorum,Heather,High,wax,77,noeggs,29,survived,29,1.01,7.27,384.240583,0.002628561,-0.223389557,Uninfected,2.47,-1.351806683
+267,lucorum,Heather,Control,nowax,29,NA,25,survived,29,0.98,7.63,444.194947,0.002206239,1.535803208,Uninfected,2.97,0.132985758
+268,lucorum,Heather,Low,wax,5,noeggs,29,survived,29,1.39,7.36,398.688256,0.003486433,0.216408634,Uninfected,2.34,-1.737852717
+283,lucorum,Heather,Low,nowax,29,eggs,8,survived,29,2.3,7.45,413.493625,0.005562359,0.656206825,Uninfected,2.83,-0.282756126
+284,lucorum,Heather,High,nowax,29,noeggs,29,survived,29,1.4,7.44,411.830784,0.003399454,0.607340359,Uninfected,3.38,1.350515559
+291,lucorum,Heather,Control,wax,9,noeggs,29,survived,29,1.45,7.04,348.913664,0.004155756,-1.347318269,Uninfected,2.81,-0.342147823
+293,lucorum,Heather,High,nowax,29,eggs,16,survived,29,1.1,6.98,340.068392,0.003234643,-1.640517063,Uninfected,3.02,0.281465002
+301,lucorum,Heather,Low,wax,22,noeggs,29,survived,29,1.18,7.08,354.894912,0.003324928,-1.151852406,Uninfected,3,0.222073304
+308,lucorum,Heather,High,nowax,29,noeggs,29,died,3,0.73,7.42,408.518488,0.001786945,0.509607428,Uninfected,1.14,NA
+311,lucorum,Heather,High,wax,8,noeggs,29,survived,29,1.14,7.14,363.994344,0.003131917,-0.858653612,Uninfected,2.61,-0.936064799
+312,lucorum,Heather,Control,nowax,29,noeggs,29,survived,29,0.95,7.32,392.223168,0.00242209,0.020942771,Uninfected,3.39,1.380211407
+315,lucorum,Heather,Control,nowax,29,NA,16,survived,29,1.17,7.08,354.894912,0.003296751,-1.151852406,Uninfected,2.59,-0.995456497
+317,lucorum,Heather,High,wax,7,NA,14,survived,29,1.59,7.2,373.248,0.004259902,-0.565454817,Uninfected,2.81,-0.342147823
+319,lucorum,Heather,Low,wax,6,eggs,7,survived,29,1.54,7.31,390.617891,0.003942472,-0.027923695,Uninfected,2.69,-0.698498009
+320,lucorum,Heather,High,nowax,29,noeggs,29,survived,29,0.79,7.24,379.503424,0.002081668,-0.369988955,Uninfected,2.93,0.014202362
+324,lucorum,Heather,Control,wax,9,noeggs,29,survived,29,1.54,7.61,440.711081,0.003494353,1.438070276,Uninfected,2.65,-0.817281404
+327,lucorum,Heather,Control,nowax,29,eggs,26,survived,29,1.19,7.53,426.957777,0.002787161,1.047138551,Uninfected,3.27,1.023861222
+330,lucorum,Heather,Control,nowax,29,eggs,24,survived,29,1.29,7.44,411.830784,0.003132354,0.607340359,Uninfected,3.04,0.340856699
+335,lucorum,Heather,High,wax,20,noeggs,29,survived,29,1.39,7,343,0.004052478,-1.542784131,Uninfected,2.74,-0.550018765
+338,lucorum,Heather,High,wax,4,noeggs,29,survived,29,1.17,7.3,389.017,0.003007581,-0.07679016,Uninfected,2.76,-0.490627067
+343,lucorum,Heather,Low,nowax,29,noeggs,29,died,6,0.23,7.39,403.583419,0.000569895,0.363008031,Uninfected,1.82,NA
+367,pascuorum ,Saville,Low,wax,14,noeggs,29,survived,29,0.49,6.29,248.858189,0.001968993,0.039466159,Uninfected,1.86,0.237011579
+368,pascuorum ,Saville,High,nowax,29,noeggs,29,died,27,0.62,6.09,225.866529,0.002744984,-0.703426254,Uninfected,1.42,NA
+370,pascuorum ,Saville,Low,wax,19,noeggs,29,survived,29,0.47,6.21,239.483061,0.001962561,-0.257690806,Uninfected,1.89,0.316224998
+371,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.19,6.21,239.483061,0.000793376,-0.257690806,Uninfected,1.62,-0.396695773
+373,pascuorum ,Saville,Low,wax,8,noeggs,29,survived,29,0.7,5.96,211.708736,0.003306429,-1.186306323,Uninfected,2.03,0.68588762
+380,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.26,6.19,237.176659,0.001096229,-0.331980047,Uninfected,1.35,-1.109616544
+381,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.44,6.37,258.474853,0.001702293,0.336623125,Uninfected,1.88,0.289820525
+385,pascuorum ,Saville,Low,wax,27,noeggs,29,survived,29,1.17,6.51,275.894451,0.004240752,0.856647814,Uninfected,1.8,0.078584741
+387,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.43,6.56,282.300416,0.0015232,1.042370917,Uninfected,1.22,-1.452874693
+390,lucorum,Heather,Control,nowax,29,noeggs,29,died,15,1.12,7.47,416.832723,0.002686929,0.753939757,Uninfected,3.46,NA
+393,lucorum,Heather,Control,nowax,29,eggs,11,survived,29,1.45,7.23,377.933067,0.003836658,-0.41885542,Uninfected,3.66,2.181999325
+402,lucorum,Heather,Control,nowax,29,noeggs,29,died,13,0.59,7.41,406.869021,0.001450098,0.460740962,Uninfected,1.94,NA
+405,lucorum,Heather,Control,nowax,29,noeggs,29,died,13,0.81,7.7,456.533,0.001774242,1.877868468,Uninfected,2.02,NA
+409,pascuorum ,Heather,Low,wax,18,NA,21,survived,29,0.72,6.45,268.336125,0.002683202,0.63378009,Uninfected,2.05,0.738696566
+410,pascuorum ,Heather,High,nowax,29,noeggs,29,survived,29,0.34,5.94,209.584584,0.001622257,-1.260595564,Uninfected,1.54,-0.607931557
+411,pascuorum ,Heather,Control,wax,25,noeggs,29,survived,29,0.62,5.95,210.644875,0.002943342,-1.223450943,Uninfected,1.88,0.289820525
+412,pascuorum ,Heather,Low,nowax,29,noeggs,29,died,18,0.65,6.69,299.418309,0.002170876,1.525250986,Uninfected,1.4,NA
+416,pascuorum ,Saville,High,wax,7,noeggs,29,survived,29,0.81,6.34,254.840104,0.003178464,0.225189263,Uninfected,1.43,-0.89838076
+419,pascuorum ,Saville,High,wax,7,noeggs,29,survived,29,0.92,6.08,224.755712,0.004093333,-0.740570875,Uninfected,1.69,-0.211864462
+420,pascuorum ,Saville,Control,wax,13,eggs,21,survived,29,0.74,6.26,245.314376,0.003016537,-0.071967703,Uninfected,2.13,0.94993235
+421,pascuorum ,Saville,Low,wax,3,eggs,17,survived,29,1.29,6.53,278.445077,0.004632871,0.930937055,Uninfected,2.5,1.926897851
+423,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.41,6.31,251.239591,0.001631908,0.113755401,Uninfected,1.81,0.104989214
+427,pascuorum ,Saville,Low,wax,21,noeggs,29,survived,29,0.64,6.36,257.259456,0.002487761,0.299478504,Uninfected,1.89,0.316224998
+428,pascuorum ,Saville,High,wax,21,noeggs,29,survived,29,1.09,6.13,230.346397,0.004732004,-0.554847771,Uninfected,2.11,0.897123404
+439,pascuorum ,Saville,Low,wax,12,NA,27,survived,29,1.42,6.48,272.097792,0.005218712,0.745213952,Uninfected,2.13,0.94993235
+440,pascuorum ,Saville,High,wax,7,noeggs,29,survived,29,0.79,6.49,273.359449,0.002889968,0.782358573,Uninfected,2.21,1.161168134
+442,pascuorum ,Saville,Low,wax,2,NA,17,survived,29,1.38,6.49,273.359449,0.005048298,0.782358573,Uninfected,2.34,1.504426283
+446,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.31,5.68,183.250432,0.001691674,-2.226355701,Uninfected,1.68,-0.238268935
+447,pascuorum ,Saville,Control,wax,3,NA,16,survived,29,1.04,6.28,247.673152,0.004199083,0.002321539,Uninfected,2.15,1.002741296
+450,pascuorum ,Saville,Control,nowax,29,noeggs,29,died,5,0.35,5.56,171.879616,0.002036309,-2.672091149,Uninfected,1.94,NA
+453,pascuorum ,Saville,Control,wax,23,noeggs,29,survived,29,1.02,6.15,232.608375,0.004385053,-0.48055853,Uninfected,1.54,-0.607931557
+455,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.31,6.74,306.182024,0.00101247,1.710974089,Uninfected,1.48,-0.766358395
+457,pascuorum ,Saville,Low,nowax,29,noeggs,29,survived,29,0.35,5.55,170.953875,0.002047336,-2.70923577,Uninfected,1.25,-1.373661274
+458,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.67,6.58,284.890312,0.002351782,1.116660159,Uninfected,1.43,-0.89838076
+459,pascuorum ,Saville,Control,wax,12,noeggs,29,survived,29,0.89,5.9,205.379,0.004333452,-1.409174047,Uninfected,2.27,1.319594972
+465,pascuorum ,Saville,Control,wax,6,eggs,16,survived,29,1.19,6.18,236.029032,0.005041753,-0.369124668,Uninfected,2.32,1.451617337
+470,pascuorum ,Saville,High,wax,6,noeggs,29,survived,29,0.98,6.6,287.496,0.003408743,1.1909494,Uninfected,2.21,1.161168134
+475,pascuorum ,Saville,Low,nowax,29,noeggs,29,survived,29,1.67,6.48,272.097792,0.006137499,0.745213952,Uninfected,1.32,-1.188829963
+476,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.42,6.32,252.435968,0.001663788,0.150900021,Uninfected,0.95,-2.165795464
+477,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.72,6.26,245.314376,0.002935009,-0.071967703,Uninfected,1.31,-1.215234436
+479,pascuorum ,Saville,High,wax,5,eggs,11,survived,29,1.04,6.49,273.359449,0.003804515,0.782358573,Uninfected,1.68,-0.238268935
+483,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.77,6.32,252.435968,0.003050278,0.150900021,Uninfected,1.38,-1.030403125
+485,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.38,6.19,237.176659,0.001602181,-0.331980047,Uninfected,1.14,-1.664110477
+491,pascuorum ,Saville,High,nowax,29,noeggs,29,survived,29,0.38,6.45,268.336125,0.001416134,0.63378009,Uninfected,1.39,-1.003998652
+495,pascuorum ,Saville,Control,wax,5,eggs,22,survived,29,1.35,6.43,265.847707,0.005078095,0.559490849,Uninfected,NA,NA
+496,pascuorum ,Saville,Low,wax,19,eggs,27,survived,29,0.52,6.39,260.917119,0.00199297,0.410912366,Uninfected,2.1,0.870718931
+498,pascuorum ,Saville,Control,nowax,29,noeggs,29,died,2,NA,6.13,230.346397,NA,-0.554847771,Uninfected,1.93,NA
+501,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.68,6.42,264.609288,0.002569827,0.522346228,Uninfected,2.1,0.870718931
+502,pascuorum ,Saville,Low,nowax,29,noeggs,29,survived,29,0.49,6.35,256.047875,0.001913705,0.262333883,Uninfected,1.61,-0.423100246
+504,pascuorum ,Saville,Control,nowax,29,noeggs,29,died,4,1.07,6.57,283.593393,0.003773008,1.079515538,Uninfected,1.63,NA
+507,pascuorum ,Saville,Control,nowax,29,noeggs,29,survived,29,0.56,6.52,277.167808,0.002020437,0.893792435,Uninfected,2.07,0.791505512
+508,pascuorum ,Saville,Low,nowax,29,noeggs,29,survived,29,0.42,5.98,213.847192,0.001964019,-1.112017081,Uninfected,1.61,-0.423100246
